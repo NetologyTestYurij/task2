@@ -3,4 +3,4 @@ tmp/
 */.backup
 Thumbs.db
 *.DS_Store
-NeuroStartUp.png_backup
+/NeuroStartUp.png_backup
